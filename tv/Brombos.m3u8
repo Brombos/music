@@ -3,5 +3,5 @@
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Smash TV" tvg-logo="https://i.imgur.com/ZKF0fG3.png" tvg-id="SmashTV.mt" group-title="Cool",Smash TV
 http://a3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 tvg-name="Radio" tvg-logo="https://avatars.githubusercontent.com/u/138875448?v=4" tvg-id="Brombos.Radio" group-title="Cool",Brombos
+#EXTINF:-1 tvg-name="Sound" tvg-logo="https://avatars.githubusercontent.com/u/138875448?v=4" tvg-id="Brombos.Radio" group-title="Cool",Brombos
 https://github.com/Brombos/Music/raw/main/sound.mp3
